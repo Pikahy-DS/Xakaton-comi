@@ -1,0 +1,43 @@
+.User {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.Persik {
+  display: block;
+  width: 30%;
+  max-width: 240px;
+  margin: 20px auto;
+}
+.CENTER {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-weight: normal;
+  font-size: 20px;
+}
+.H2 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 15px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.But {
+  margin-left: 0%;
+  font-size: 10px;
+}
+.H22 {
+  font-weight: normal;
+  font-size: 5px;
+
+}
+
+.Data {
+  font-weight: normal;
+  font-size: 15px;
+
+}
